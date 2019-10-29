@@ -1,0 +1,505 @@
+{
+    "@id": "https://readux.ecdsdev.org/iiif/v2/jubilee-g/manifest",
+    "label": "Jubilee Songs Google",
+    "viewingHint": "paged",
+    "description": "x",
+    "@type": "sc:Manifest",
+    "metadata": [
+        {
+            "label": "Author",
+            "value": "x"
+        },
+        {
+            "label": "Publisher",
+            "value": "x"
+        },
+        {
+            "label": "Place of Publication",
+            "value": "x"
+        },
+        {
+            "label": "Publication Date",
+            "value": "x"
+        },
+        {
+            "label": "Notes",
+            "value": [
+                {}
+            ]
+        },
+        {
+            "label": "Record Created",
+            "value": "2019-09-27T16:54:20.418Z"
+        },
+        {
+            "label": "Edition Type",
+            "value": "Readux IIIF Exported Edition"
+        },
+        {
+            "label": "About Readux",
+            "value": "https://readux.ecdsdev.org/about/"
+        },
+        {
+            "label": "Annotators",
+            "value": "Sara E. Palmer"
+        },
+        {
+            "label": "Export Date",
+            "value": "2019-10-29T14:45:39.253"
+        }
+    ],
+    "within": [
+        "https://readux.ecdsdev.org/collection/sounding-spirit"
+    ],
+    "viewingDirection": "left-to-right",
+    "thumbnail": {
+        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000095.jpg/full/600,/0/default.jpg",
+        "service": {
+            "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000095.jpg",
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+    },
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "attribution": "Emory University Libraries",
+    "logo": "https://readux.ecdsdev.org/media/logos/lits-logo-web.png",
+    "related": [
+        "https://readux.ecdsdev.org/volume/jubilee-g/page/all"
+    ],
+    "sequences": [
+        {
+            "canvases": [
+                {
+                    "height": 2400,
+                    "@id": "https://readux.ecdsdev.org/iiif/jubilee-g/canvas/jubilee-g_00000095.jpg",
+                    "label": "1",
+                    "@type": "sc:Canvas",
+                    "width": 1725,
+                    "thumbnail": {
+                        "height": 250,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000095.jpg/full/200,/0/default.jpg",
+                        "width": 200
+                    },
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "images": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/jubilee-g/annotation/jubilee-g_00000095.jpg",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "height": 2400,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000095.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000095.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1725
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "https://readux.ecdsdev.org/iiif/jubilee-g/canvas/jubilee-g_00000095.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/jubilee-g/list/jubilee-g_00000095.jpg",
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList"
+                        },
+                        {
+                            "@id": "https://readux.ecdsdev.org/annotations/sepalme/jubilee-g/list/jubilee-g_00000095.jpg",
+                            "label": "Annotations by sepalme",
+                            "@type": "sc:AnnotationList"
+                        },
+                        {
+                            "@id": "https://readux.ecdsdev.org/annotations/jay/jubilee-g/list/jubilee-g_00000095.jpg",
+                            "label": "Annotations by jay",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                },
+                {
+                    "height": 2400,
+                    "@id": "https://readux.ecdsdev.org/iiif/jubilee-g/canvas/jubilee-g_00000140.jpg",
+                    "label": "2",
+                    "@type": "sc:Canvas",
+                    "width": 1725,
+                    "thumbnail": {
+                        "height": 250,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000140.jpg/full/200,/0/default.jpg",
+                        "width": 200
+                    },
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "images": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/jubilee-g/annotation/jubilee-g_00000140.jpg",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "height": 2400,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000140.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000140.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1725
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "https://readux.ecdsdev.org/iiif/jubilee-g/canvas/jubilee-g_00000140.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/jubilee-g/list/jubilee-g_00000140.jpg",
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                },
+                {
+                    "height": 2400,
+                    "@id": "https://readux.ecdsdev.org/iiif/jubilee-g/canvas/jubilee-g_00000147.jpg",
+                    "label": "3",
+                    "@type": "sc:Canvas",
+                    "width": 1725,
+                    "thumbnail": {
+                        "height": 250,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000147.jpg/full/200,/0/default.jpg",
+                        "width": 200
+                    },
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "images": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/jubilee-g/annotation/jubilee-g_00000147.jpg",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "height": 2400,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000147.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000147.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1725
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "https://readux.ecdsdev.org/iiif/jubilee-g/canvas/jubilee-g_00000147.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/jubilee-g/list/jubilee-g_00000147.jpg",
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList"
+                        },
+                        {
+                            "@id": "https://readux.ecdsdev.org/annotations/sarepal-github/jubilee-g/list/jubilee-g_00000147.jpg",
+                            "label": "Annotations by sarepal-github",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                },
+                {
+                    "height": 2400,
+                    "@id": "https://readux.ecdsdev.org/iiif/jubilee-g/canvas/jubilee-g_00000154.jpg",
+                    "label": "4",
+                    "@type": "sc:Canvas",
+                    "width": 1725,
+                    "thumbnail": {
+                        "height": 250,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000154.jpg/full/200,/0/default.jpg",
+                        "width": 200
+                    },
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "images": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/jubilee-g/annotation/jubilee-g_00000154.jpg",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "height": 2400,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000154.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000154.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1725
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "https://readux.ecdsdev.org/iiif/jubilee-g/canvas/jubilee-g_00000154.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/jubilee-g/list/jubilee-g_00000154.jpg",
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                },
+                {
+                    "height": 2400,
+                    "@id": "https://readux.ecdsdev.org/iiif/jubilee-g/canvas/jubilee-g_00000187.jpg",
+                    "label": "5",
+                    "@type": "sc:Canvas",
+                    "width": 1725,
+                    "thumbnail": {
+                        "height": 250,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000187.jpg/full/200,/0/default.jpg",
+                        "width": 200
+                    },
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "images": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/jubilee-g/annotation/jubilee-g_00000187.jpg",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "height": 2400,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000187.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000187.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1725
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "https://readux.ecdsdev.org/iiif/jubilee-g/canvas/jubilee-g_00000187.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/jubilee-g/list/jubilee-g_00000187.jpg",
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                },
+                {
+                    "height": 2400,
+                    "@id": "https://readux.ecdsdev.org/iiif/jubilee-g/canvas/jubilee-g_00000200.jpg",
+                    "label": "6",
+                    "@type": "sc:Canvas",
+                    "width": 1725,
+                    "thumbnail": {
+                        "height": 250,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000200.jpg/full/200,/0/default.jpg",
+                        "width": 200
+                    },
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "images": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/jubilee-g/annotation/jubilee-g_00000200.jpg",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "height": 2400,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000200.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000200.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1725
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "https://readux.ecdsdev.org/iiif/jubilee-g/canvas/jubilee-g_00000200.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/jubilee-g/list/jubilee-g_00000200.jpg",
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                },
+                {
+                    "height": 2400,
+                    "@id": "https://readux.ecdsdev.org/iiif/jubilee-g/canvas/jubilee-g_00000218.jpg",
+                    "label": "7",
+                    "@type": "sc:Canvas",
+                    "width": 1725,
+                    "thumbnail": {
+                        "height": 250,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000218.jpg/full/200,/0/default.jpg",
+                        "width": 200
+                    },
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "images": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/jubilee-g/annotation/jubilee-g_00000218.jpg",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "height": 2400,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000218.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000218.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1725
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "https://readux.ecdsdev.org/iiif/jubilee-g/canvas/jubilee-g_00000218.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/jubilee-g/list/jubilee-g_00000218.jpg",
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                },
+                {
+                    "height": 2400,
+                    "@id": "https://readux.ecdsdev.org/iiif/jubilee-g/canvas/jubilee-g_00000232.jpg",
+                    "label": "8",
+                    "@type": "sc:Canvas",
+                    "width": 1725,
+                    "thumbnail": {
+                        "height": 250,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000232.jpg/full/200,/0/default.jpg",
+                        "width": 200
+                    },
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "images": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/jubilee-g/annotation/jubilee-g_00000232.jpg",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "height": 2400,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000232.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000232.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1725
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "https://readux.ecdsdev.org/iiif/jubilee-g/canvas/jubilee-g_00000232.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/jubilee-g/list/jubilee-g_00000232.jpg",
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                },
+                {
+                    "height": 2400,
+                    "@id": "https://readux.ecdsdev.org/iiif/jubilee-g/canvas/jubilee-g_00000235.jpg",
+                    "label": "9",
+                    "@type": "sc:Canvas",
+                    "width": 1725,
+                    "thumbnail": {
+                        "height": 250,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000235.jpg/full/200,/0/default.jpg",
+                        "width": 200
+                    },
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "images": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/jubilee-g/annotation/jubilee-g_00000235.jpg",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "height": 2400,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000235.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000235.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1725
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "https://readux.ecdsdev.org/iiif/jubilee-g/canvas/jubilee-g_00000235.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/jubilee-g/list/jubilee-g_00000235.jpg",
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                },
+                {
+                    "height": 2400,
+                    "@id": "https://readux.ecdsdev.org/iiif/jubilee-g/canvas/jubilee-g_00000244.jpg",
+                    "label": "10",
+                    "@type": "sc:Canvas",
+                    "width": 1725,
+                    "thumbnail": {
+                        "height": 250,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000244.jpg/full/200,/0/default.jpg",
+                        "width": 200
+                    },
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "images": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/jubilee-g/annotation/jubilee-g_00000244.jpg",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "height": 2400,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000244.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/jubilee-g_00000244.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1725
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "https://readux.ecdsdev.org/iiif/jubilee-g/canvas/jubilee-g_00000244.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/jubilee-g/list/jubilee-g_00000244.jpg",
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ],
+            "@id": "https://readux.ecdsdev.org/iiif/v2/jubilee-g/sequence/normal",
+            "startCanvas": "https://readux.ecdsdev.org/iiif/jubilee-g/canvas/jubilee-g_00000095.jpg",
+            "label": "Current Page Order",
+            "@type": "sc:Sequence"
+        }
+    ],
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

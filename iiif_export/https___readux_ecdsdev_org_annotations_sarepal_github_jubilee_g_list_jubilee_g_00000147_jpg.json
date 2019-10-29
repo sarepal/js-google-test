@@ -1,0 +1,88 @@
+{
+    "@id": "https://readux.ecdsdev.org/annotations/sarepal-github/jubilee-g/list/jubilee-g_00000147.jpg",
+    "@type": "sc:AnnotationList",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "resources": [
+        {
+            "@id": "2149e3a4-ffa9-4e33-b927-10ee9a677886",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Sara E. Palmer"
+            },
+            "resource": {
+                "format": "text/html",
+                "chars": "<p>text annotation</p>",
+                "language": "en",
+                "@type": "dctypes:Text"
+            },
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "item": {
+                        "startSelector": {
+                            "refinedBy": {
+                                "start": 0,
+                                "@type": "TextPositionSelector"
+                            },
+                            "value": "//*[@id='24678e2e-d941-4d14-b9b1-b3f8d12d5327']",
+                            "@type": "XPathSelector"
+                        },
+                        "endSelector": {
+                            "refinedBy": {
+                                "end": 0,
+                                "@type": "TextPositionSelector"
+                            },
+                            "value": "//*[@id='7192e851-d830-4fa3-ba00-ae44073012c4']",
+                            "@type": "XPathSelector"
+                        },
+                        "@type": "RangeSelector"
+                    },
+                    "value": "xywh=363,903,641,70",
+                    "@type": "oa:FragmentSelector"
+                },
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/jubilee-g/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/jubilee-g/canvas/jubilee-g_00000147.jpg",
+                "@type": "oa:SpecificResource"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        },
+        {
+            "@id": "c685ba85-8c10-4bb3-900d-de6e5c6ad0d2",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Sara E. Palmer"
+            },
+            "resource": {
+                "format": "text/html",
+                "chars": "<p>shape annotation</p>",
+                "language": "en",
+                "@type": "dctypes:Text"
+            },
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M362.4337,342.75138h173.37569v0h173.37569v141.88398v141.88398h-173.37569h-173.37569v-141.88398z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_69c1202d-7a74-4f33-a581-f5ca314205cb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "value": "xywh=362,343,347,284",
+                            "@type": "oa:FragmentSelector"
+                        }
+                    },
+                    "value": "xywh=362,343,347,284",
+                    "@type": "oa:FragmentSelector"
+                },
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/jubilee-g/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/jubilee-g/canvas/jubilee-g_00000147.jpg",
+                "@type": "oa:SpecificResource"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        }
+    ]
+}
